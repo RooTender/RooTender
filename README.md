@@ -15,7 +15,7 @@ My hobbies besides programming and problem solving are: maths, sailing, cooking,
 - 💢 I tend to be too honest with intentions to help. I value threats more than feelings and the point is to help instead of just being unpleasant. 
 
 ## My favourite IT topics ❤
-- Working with C/C++
+- Working with C/C++ and algorithms
 - Optimizing or refactoring code
 - Discovering new methodologies, approaches and data structures
 
