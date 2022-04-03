@@ -18,7 +18,7 @@ My hobbies besides programming and problem solving are: maths, sailing, cooking,
 - Problem solving and interesting algorithms
 - Optimizing or refactoring code
 - Discovering new methodologies, approaches and data structures
-- _actually C++_
+- _Actually C++_
 
 ## How to reach me? 📫
 Details about it are shared on [LinkedIn](https://www.linkedin.com/in/hubert-lewandowski-20b006143/)
