@@ -12,7 +12,7 @@ My hobbies besides programming and problem solving are: maths, sailing, cooking,
 ### My weaknesses
 - 🙈 Shyness, making presentations and publicly expressing myself is a huge challenge for me
 - 🧐 Sometimes I pay too much attention to the details or overengineer basic solutions
-- 💢 I tend to be too honest with intentions to help. I value threats more than feelings and the point is to help instead of just being unpleasant. 
+- 😥 I tend to worry to much when things go wrong
 
 ## My favourite IT topics ❤
 - Working with C/C++ and algorithms
