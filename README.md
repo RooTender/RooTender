@@ -21,7 +21,7 @@ My hobbies besides programming and problem solving are: maths, sailing, cooking,
 - _Actually C++_
 
 ## How to reach me? 📫
-Details about it are shared on [LinkedIn](https://www.linkedin.com/in/hubert-lewandowski-20b006143/)
+Details about it are shared on [LinkedIn](https://www.linkedin.com/in/rootender/)
 > _I want to have more control over my privacy data. I prefer to keep it centralized._
 
 <!---
