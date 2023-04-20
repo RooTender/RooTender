@@ -1,23 +1,13 @@
 # Hi, I’m @RooTender!
 
 ## About me 👋
-I am a student at the Gdańsk University of Technology in the Computer Science field. I like to work on ambitious but rewarding projects.
-My hobbies besides programming and problem solving are: maths, sailing, cooking, learning new things (for example new languages) and also cleaning.
-
-### My strengths
-- 🖐 I'm open to new opportunities and I like challenges
-- 🧹 I like my work being organized, so I do my best to maintain the good quality of code and written algorithms
-- 🤦‍♂️ If there's a constructive critique, I'm willing to make a change
-
-### My weaknesses
-- 🙈 Shyness, making presentations and publicly expressing myself is a huge challenge for me
-- 🧐 Sometimes I pay too much attention to the details or overengineer basic solutions
-- 😥 I tend to worry to much when things go wrong
+I am a Computer Science engineer, who is open-minded and likes to work on various projects.
+I like to automate tasks, research and develop optimal solutions and work with data visualization (*It's really satisfying, you should try that :)*).
 
 ## My favourite IT topics ❤
-- Problem solving and interesting algorithms
-- Optimizing or refactoring code
-- Discovering new methodologies, approaches and data structures
+- Computer graphics and algorithms
+- Optimizing data structures and refactoring code
+- Procedural generation
 - _Actually C++_
 
 ## How to reach me? 📫
