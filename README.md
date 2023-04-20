@@ -2,7 +2,7 @@
 
 ## About me 👋
 I am a Computer Science engineer, who is open-minded and likes to work on various projects.
-I like to automate tasks, research and develop optimal solutions and work with data visualization (*It's really satisfying, you should try that :)*).
+I like to automate tasks, research and develop optimal solutions and work with data visualization (*It's really satisfying, you should try that* 😉).
 
 ## My favourite IT topics ❤
 - Computer graphics and algorithms
