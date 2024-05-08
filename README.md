@@ -1,14 +1,17 @@
-# Hi, I’m @RooTender!
+### RooTender
 
-## About me 👋
 I am a Computer Science engineer, who is open-minded and likes to work on various projects.
-I like to automate tasks, research and develop optimal solutions and work with data visualization (*It's really satisfying, you should try that* 😉).
+Open-source, translations, creative and even boring ones included 🙂.
+I like to automate tasks, research, develop optimal solutions and maintain code.
 
-## My favourite IT topics ❤
-- Computer graphics and algorithms
-- Optimizing data structures and refactoring code
-- Procedural generation
-- _Actually C++_
+#### Facts about me
+
+- CSE Engineer graduate
+- Passionate about AI and deterministic concepts (_the usecase is important_)
+- Follows YAGNI principle 📦
+- Develops ~performant~ effective projects 🚀
+- Researches _almost_ on daily basis
+- Loves living and experiencing life 🏞
 
 <!---
 RooTender/RooTender is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
